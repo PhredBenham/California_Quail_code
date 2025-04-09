@@ -1,0 +1,55 @@
+###Code for running GONE 5 December 2024, #Large scaffold vcf includes 108 scaffolds >1Mb in the California Quail genome
+
+#convert to plink with some filtering and removing individuals sampled before year 2000
+vcftools --vcf GamQuail_LargeScaffold.vcf --remove GambelRemove.txt --mac 2 --max-missing 0.95 --non-ref-ac-any 1 --out GamForGone_5Dec --plink
+vcftools --vcf CalQuail_LargeScaffold.vcf --remove OldCalQuail.txt --mac 2 --max-missing 0.95 --non-ref-ac-any 1 --out GamForGone_5Dec --plink
+vcftools --gzvcf MtnQuail_largeScaffold.vcf.gz --keep MtnFinal.txt --mac 2 --max-missing 0.95 --non-ref-ac-any 1 --out MtnForGone_5Dec --plink 
+vcftools --vcf CalQuail_LargeScaffold.vcf --keep SW_keep.txt --mac 2 --max-missing 0.95 --non-ref-ac-any 1 --out SWCalForGone_5Dec --plink
+vcftools --vcf CalQuail_LargeScaffold.vcf --keep NW_keep.txt --mac 2 --max-missing 0.95 --non-ref-ac-any 1 --out NWCalForGone_5Dec --plink
+ 
+##Filtering results in plink file with 5502211 SNPs for Gambel's Quail##
+##Filtering results in plink file with 21130374 SNPs for California Quail##
+##Filtering results in plink file with 4164484 SNPs for Mountain Quail##
+##Filtering results in plink file with 12035910 SNPs for SW cal Quail##
+##Filtering results in plink file with 11612764 SNPs for NW cal Quail##
+
+#Then need to do some editing to ensure .ped and .map files are in correct format for GONE
+sed -i 's/0\s*JALIRH010*\(\w*\)\.\w/\1\t\1/' GamForGone_5Dec.map
+sed -i 's/0\s*JALIRH010*\(\w*\)\.\w/\1\t\1/' CalForGone_5Dec.map
+sed -i 's/0\s*JALIRH010*\(\w*\)\.\w/\1\t\1/' MtnForGone_5Dec.map
+sed -i 's/0\s*JALIRH010*\(\w*\)\.\w/\1\t\1/' SWCalForGone_5Dec.map
+sed -i 's/0\s*JALIRH010*\(\w*\)\.\w/\1\t\1/' NWCalForGone_5Dec.map
+
+awk '{sub(/0/, "-9", $6)}1' GamForGone_5Dec.ped >GamForGone_5Decb.ped #rename .ped after running this command
+awk '{sub(/0/, "-9", $6)}1' CalForGone_5Dec.ped >CalForGone_5Decb.ped
+awk '{sub(/0/, "-9", $6)}1' MtnForGone_5Dec.ped >MtnForGone_5Decb.ped
+awk '{sub(/0/, "-9", $6)}1' SWCalForGone_5Dec.ped >SWCalForGone_5Decb.ped
+awk '{sub(/0/, "-9", $6)}1' NWCalForGone_5Dec.ped >NWCalForGone_5Decb.ped
+
+#run GONE using bash script
+#see INPUT_PARAMETERS_FILE below for parameter settings for each run
+bash script_GONE.sh GamForGone_5Dec
+bash script_GONE.sh CalForGone_5Dec
+bash script_GONE.sh MtnForGone_5Dec
+bash script_GONE.sh SWCalForGone_5Dec
+bash script_GONE.sh NWCalForGone_5Dec
+
+
+#INPUT_PARAMETERS_FILE
+
+########################################################
+
+PHASE=2 ### Phase = 0 (pseudohaploids), 1 (known phase), 2 (unknown phase)
+cMMb=3.11  ### CentiMorgans per Megabase (if distance is not available in map file).
+DIST=1  ### none (0), Haldane correction (1) or Kosambi correction (2)
+NGEN=2000 ### Number of generations for which linkage data is obtained in bins
+NBIN=400  ### Number of bins (e.g. if 400, each bin includes NGEN/NBIN = 2000/400 = 5 generations)
+MAF=0.0   ### Minor allele frequency (0-1) (recommended 0)
+ZERO=1   ### 0: Remove SNPs with zeroes (1: allow for them)
+maxNCHROM=-99  ### Maximum number of chromosomes to be analysed (-99 = all chromosomes; maximum number is 200)
+maxNSNP=25000 ### Maximum approx number of SNPs per chromosomes to be analysed (maximum number is 50000)
+hc=0.05   ### Maximum value of c analysed (recommended 0.05; maximum is 0.5)
+REPS=100   ### Number of replicates to run GONE (recommended 40)
+threads=12  ### Number of threads (if -99 it uses all possible processors)
+
+###################################################################

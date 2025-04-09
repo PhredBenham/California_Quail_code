@@ -1,0 +1,52 @@
+--not-chr JALIRH010000009.1 --not-chr JALIRH010000023.1 --not-chr JALIRH010000025.1 --not-chr JALIRH010000031.1 --not-chr JALIRH010000041.1 --not-chr JALIRH010000049.1 --not-chr JALIRH010000052.1 --not-chr JALIRH010000066.1 --not-chr JALIRH010000062.1 --not-chr JALIRH010000085.1 --not-chr JALIRH010000094.1 --not-chr JALIRH010000103.1 --not-chr CM041362.1 --recode --out MtnQuail_Autosome_10Sept
+
+36632585
+34833519
+33021009
+
+/media/data1/BowieGenomes/MixedLane_6Feb2023/Galliformes_capture
+/media/data2/Galliformes_captures/GalCap_atram_relec2
+
+
+vcftools --gzvcf 41-Callipepla_gatkfilters.vcf.gz --not-chr JALIRH010000009.1 --not-chr JALIRH010000023.1 --not-chr JALIRH010000025.1 --not-chr JALIRH010000031.1 --not-chr JALIRH010000041.1 --not-chr JALIRH010000049.1 --not-chr JALIRH010000052.1 --not-chr JALIRH010000066.1 --not-chr JALIRH010000062.1 --not-chr JALIRH010000085.1 --not-chr JALIRH010000094.1 --not-chr JALIRH010000103.1 --not-chr CM041362.1
+
+7119081
+/media/data2/Quail_reanalysis/GADMA/MtnQuail/Oreortyx_2dsfs.fs
+/media/data2/Quail_reanalysis/GADMA/MtnQuail/oreortyx_2pop_bootstraps        
+
+FinalSeqLengthCallipepla<-169,458,912        
+FinalSeqLengthMtn<-298,569,517
+        
+905814793
+45715990-37163489
+
+--keep MtnKeep2.txt	--non-ref-ac-any 1
+
+33021009
+
+49256733-33021009
+
+53072734       
+
+445369764
+        
+        --out CalQuail_final_14June2024
+        --recode
+
+/media/data2/Quail_reanalysis/GADMA/Callipepla/Callipepla_3dsfs.fs
+/media/data2/Quail_reanalysis/GADMA/Callipepla/quail_bootstraps
+
+/media/data2/Quail_reanalysis/CalQuail_Autosome_16Sept.recode.vcf.gz       
+../MissingSites_mask.bed.gz
+
+
+  --allow-extra-chr
+  --chr-set 95
+  --file NorthMtnQuail4
+  --keep mtn_keep.txt
+  --make-bed
+  --out Mtn_Quail_2000s_large_scaf
+  
+plink --vcf MtnQuail_Autosomes_11sept.recode.vcf.gz --keep mtn_keep.txt --allow-extra-chr --recode --out MtnGONE_Sept24 
+
+FID	IID	PHE	CHR	SNP1	SNP2	POS1	POS2	KB	NSNP	DENSITY	PHOM	PHET

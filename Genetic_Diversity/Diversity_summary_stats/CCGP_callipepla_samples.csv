@@ -1,0 +1,121 @@
+﻿Sort,VcfOrder,SampID,Voucher,Year_coll,Cluster,Species,County,Ecoregion,Longitude,Latitude
+29,MVZCCGP-CaOr151_II-A04,MVZCCGP-CaOr151_II-A04,MVZ:Bird:181773,2003,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.6853,37.9094
+30,MVZCCGP-CaOr155_II-E04,MVZCCGP-CaOr155_II-E04,MWFB:Bird:15490,2017,CC_SN,Callipepla_californica,Madera County,Sierra Nevada Foothills,-119.7156,37.342407
+31,MVZCCGP-CaOr27_II-C07,MVZCCGP-CaOr27_II-C07,LACM:Bird:104987,1990,CC_NWCal,Callipepla_californica,Lake County,Northern California Coast Ranges,-122.6160965,38.7523041
+32,MVZCCGP-CaOr24_I-C03,MVZCCGP-CaOr24_I-C03,MVZ uncataloged,2008,CC_SN,Callipepla_californica,Kern County,Sierra Nevada Foothills,-118.44392,35.58906
+33,MVZCCGP-CaOr54_I-D06,MVZCCGP-CaOr54_I-D06,MVZ:Bird:183922,2009,CC_NWCal,Callipepla_californica,Napa County,Northern California Coast,-122.250662,38.367617
+34,MVZCCGP-CaOr61_I-H06,MVZCCGP-CaOr61_I-H06,SDMNH:Bird:53420,2012,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.4415,33.5986
+35,MVZCCGP-CaOr58_I-F06,MVZCCGP-CaOr58_I-F06,SDMNH:Bird:52901,2010,CC_SoCal,Callipepla_californica,Riverside County,Colorado Desert,-116.6806,33.8961
+36,MVZCCGP-CaOr75_I-C08,MVZCCGP-CaOr75_I-C08,SDMNH:Bird:54379,2012,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.25,33.38
+37,MVZCCGP-CaOr95_I-H09,MVZCCGP-CaOr95_I-H09,MVZ uncataloged,2018?,CC_NWCal,Callipepla_californica,Sonoma County,Northern California Coast,-122.57712,38.33171
+38,MVZCCGP-CaOr157_II-F04,MVZCCGP-CaOr157_II-F04,MWFB:Bird:10100,2012,CC_NWCal,Callipepla_californica,Napa County,Northern California Interior Coast Ranges,-122.1395,38.482
+39,MVZCCGP-CaOr17_I-D02,MVZCCGP-CaOr17_I-D02,LACM:Bird:114002,2004,CC_SN,Callipepla_californica,Inyo County,Mono,-118.2940292,37.1661072
+40,MVZCCGP-CaOr19_I-F02,MVZCCGP-CaOr19_I-F02,LACM:Bird:114409,2006,CC_SN,Callipepla_californica,Inyo County,Mono,-118.3957214,37.3652992
+41,MVZCCGP-CaOr47_I-E05,MVZCCGP-CaOr47_I-E05,2021_sample,2021,CC_SN,Callipepla_californica,Modoc County,Northwestern Basin and Range,-120.13042,41.41766
+42,MVZCCGP-CaOr41_I-H04,MVZCCGP-CaOr41_I-H04,MVZ:Bird:188660,2004,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.706329,37.917682
+43,MVZCCGP-CaOr74_I-B08,MVZCCGP-CaOr74_I-B08,SDMNH:Bird:53725,2012,CC_SoCal,Callipepla_californica,San Diego County,Southern California Mountains and Valleys,-116.44,33.08
+44,MVZCCGP-CaOr123_II-E02,MVZCCGP-CaOr123_II-E02,SDNHM:Bird:55047,2017,Gambels,Callipepla_gambelii,San Bernardino County,Southern California Mountains and Valleys,-116.2549,34.0372
+45,MVZCCGP-CaOr158_II-G04,MVZCCGP-CaOr158_II-G04,MWFB:Bird:10419,2012,CC_NWCal,Callipepla_californica,Napa County,Northern California Interior Coast Ranges,-122.1395,38.482
+46,MVZCCGP-CaOr153_II-C04,MVZCCGP-CaOr153_II-C04,MWFB:Bird:13005,2019,CC_NWCal,Callipepla_californica,Glenn County,Great Valley,-121.98695,39.230883
+47,MVZCCGP-CaOr39_I-F04,MVZCCGP-CaOr39_I-F04,MVZ:Bird:188656,2003,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.662652,38.117475
+48,MVZCCGP-CaOr50_I-H05,MVZCCGP-CaOr50_I-H05,MVZ:Bird:183078,2004,CC_SN,Callipepla_californica,Monterey County,Central California Coast,-121.55,36.38749
+49,MVZCCGP-CaOr33_I-A04,MVZCCGP-CaOr33_I-A04,LACM:Bird:115852,2011,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.576219,34.159718
+50,MVZCCGP-CaOr76_I-D08,MVZCCGP-CaOr76_I-D08,SDMNH:Bird:54755,2010,CC_SoCal,Callipepla_californica,San Diego County,Colorado Desert,-116.3258,33.1893
+51,MVZCCGP-CaOr122_I-C12,MVZCCGP-CaOr122_I-C12,SDNHM:Bird:54895,2016,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.39303,35.0149
+52,MVZCCGP-CaOr101_I-F10,MVZCCGP-CaOr101_I-F10,MVZ:Bird:190552,2007,CC_NWCal,Callipepla_californica,Tehama County,Southern Cascades,-121.86118,40.44072
+53,MVZCCGP-CaOr154_II-D04,MVZCCGP-CaOr154_II-D04,MWFB:Bird:13009,2018,CC_NWCal,Callipepla_californica,Glenn County,Great Valley,-121.9101,39.42087
+54,MVZCCGP-CaOr36_I-D04,MVZCCGP-CaOr36_I-D04,CCBER:Bird:25574,1990,CC_SoCal,Callipepla_californica,Los Angeles County,Southern California Coast,-118.3269444,33.3427778
+55,MVZCCGP-CaOr56_I-E06,MVZCCGP-CaOr56_I-E06,SDMNH:Bird:52225,2008,CC_SoCal,Callipepla_californica,Riverside County,Colorado Desert,-116.6726,33.8835
+56,MVZCCGP-CaOr77_II-G01,MVZCCGP-CaOr77_II-G01,SDMNH:Bird:55017,2016,CC_SoCal,Callipepla_californica,San Diego County,Southern California Mountains and Valleys,-116.216,32.619
+57,MVZCCGP-CaOr82_I-F08,MVZCCGP-CaOr82_I-F08,LACM:Bird:120776,2017,CC_SN,Callipepla_californica,San Luis Obispo County,Central California Coast,-120.553817,35.145493
+58,MVZCCGP-CaOr117_I-F11,MVZCCGP-CaOr117_I-F11,SBCM:Bird:55599,1998,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.6,35.5
+59,MVZCCGP-CaOr119_I-H11,MVZCCGP-CaOr119_I-H11,SDNHM:Bird:54873,2016,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.54645,35.31684
+60,MVZCCGP-CaOr21_I-H02,MVZCCGP-CaOr21_I-H02,LACM:Bird:120024,2011,CC_SN,Callipepla_californica,Kern County,Sierra Nevada,-118.182891,35.245444
+61,MVZCCGP-CaOr35_I-C04,MVZCCGP-CaOr35_I-C04,LACM:Bird:120950,2017,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.668532,34.069953
+62,MVZCCGP-CaOr40_I-G04,MVZCCGP-CaOr40_I-G04,MVZ:Bird:188657,2003,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.736311,37.930331
+63,MVZCCGP-CaOr52_I-B06,MVZCCGP-CaOr52_I-B06,MVZ:Bird:183774,2007,CC_SN,Callipepla_californica,Monterey County,Central California Coast,-121.5964589,36.07240277
+64,MVZCCGP-CaOr30_I-F03,MVZCCGP-CaOr30_I-F03,LACM:Bird:111571,2001,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.7354278,34.0347371
+65,MVZCCGP-CaOr79_II-A02,MVZCCGP-CaOr79_II-A02,SDMNH:Bird:55517,2009,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.059,32.7458
+66,MVZCCGP-CaOr83_I-G08,MVZCCGP-CaOr83_I-G08,LACM:Bird:120991,2018,CC_SN,Callipepla_californica,San Luis Obispo County,Central California Coast,-120.553463,35.144388
+67,MVZCCGP-CaOr94_I-G09,MVZCCGP-CaOr94_I-G09,MVZ:Bird:190762,2010,CC_NWCal,Callipepla_californica,Solano County,Central California Coast,-122.16125,38.25329
+68,MVZCCGP-CaOr115_II-D02,MVZCCGP-CaOr115_II-D02,LSUMZ:Bird:158922,1993,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.738,34.976
+69,MVZCCGP-CaOr10_II-G06,MVZCCGP-CaOr10_II-G06,MVZ:Bird:190750,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-121.9651965,37.9476207
+70,MVZCCGP-CaOr12_II-E05,MVZCCGP-CaOr12_II-E05,MVZ:Bird:190753,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Great Valley,-121.7247336,37.9340593
+71,MVZCCGP-CaOr34_I-B04,MVZCCGP-CaOr34_I-B04,LACM:Bird:120387,2015,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.171373,34.201397
+72,MVZCCGP-CaOr67_I-D07,MVZCCGP-CaOr67_I-D07,SDMNH:Bird:51025,2003,CC_SoCal,Callipepla_californica,San Diego County,Colorado Desert,-116.4035,33.256
+73,MVZCCGP-CaOr114_I-D11,MVZCCGP-CaOr114_I-D11,LSUMZ:Bird:158921,1993,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.738,34.976
+74,MVZCCGP-CaOr1_II-D06,MVZCCGP-CaOr1_II-D06,MVZ:Bird:190742,2010,CC_NWCal,Callipepla_californica,Alameda County,Central Valley Coast Ranges,-121.702805,37.622118
+75,MVZCCGP-CaOr14_I-C02,MVZCCGP-CaOr14_I-C02,MVZ:Bird:190759,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Central Valley Coast Ranges,-121.957625,37.770761
+76,MVZCCGP-CaOr102_I-G10,MVZCCGP-CaOr102_I-G10,MVZ:Bird:190553,2007,CC_NWCal,Callipepla_californica,Tehama County,Southern Cascades,-121.86118,40.44072
+77,MVZCCGP-CaOr168_II-H06,MVZCCGP-CaOr168_II-H06,CCBER:Bird:25575,1990,CC_SoCal,Callipepla_californica,Los Angeles County,Southern California Coast,-118.3269444,33.3427778
+78,MVZCCGP-CaOr37_II-A01,MVZCCGP-CaOr37_II-A01,MVZ:Bird:183778,2007,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.573546,37.863634
+79,MVZCCGP-CaOr4_I-C01,MVZCCGP-CaOr4_I-C01,MVZ:Bird:180633,2004,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-122.1344667,37.85991667
+80,MVZCCGP-CaOr53_I-C06,MVZCCGP-CaOr53_I-C06,MVZ uncataloged,2010,CC_NWCal,Callipepla_californica,Napa County,Northern California Coast,-122.250662,38.367617
+81,MVZCCGP-CaOr51_I-A06,MVZCCGP-CaOr51_I-A06,MVZ:Bird:183080,2005,CC_SN,Callipepla_californica,Monterey County,Central California Coast,-121.628196,36.433288
+82,MVZCCGP-CaOr49_I-G05,MVZCCGP-CaOr49_I-G05,MVZ:Bird:183077,2005,CC_SN,Callipepla_californica,Monterey County,Central California Coast,-121.55011,36.38749
+83,MVZCCGP-CaOr60_II-C01,MVZCCGP-CaOr60_II-C01,SDMNH:Bird:53148,2011,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.72612,33.73965
+84,MVZCCGP-CaOr64_I-B07,MVZCCGP-CaOr64_I-B07,SDMNH:Bird:54044,2013,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.90214,33.88963
+85,MVZCCGP-CaOr66_I-C07,MVZCCGP-CaOr66_I-C07,SDMNH:Bird:50768,2003,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.1959298,33.0242474
+86,MVZCCGP-CaOr71_II-F01,MVZCCGP-CaOr71_II-F01,SDMNH:Bird:53027,2011,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.014,32.832
+87,MVZCCGP-CaOr90_I-E09,MVZCCGP-CaOr90_I-E09,MVZ:Bird:190549,2007,CC_NWCal,Callipepla_californica,Shasta County,Southern Cascades,-121.86577,40.456565
+88,MVZCCGP-CaOr80_I-E08,MVZCCGP-CaOr80_I-E08,SDMNH:Bird:55663,2018,CC_SoCal,Callipepla_californica,San Diego County,Southern California Mountains and Valleys,-116.41405,32.66406
+89,MVZCCGP-CaOr124_I-D12,MVZCCGP-CaOr124_I-D12,SDNHM:Bird:55077,2017,Gambels,Callipepla_gambelii,San Bernardino County,Southern California Mountains and Valleys,-116.2549,34.0372
+90,MVZCCGP-CaOr121_I-B12,MVZCCGP-CaOr121_I-B12,SDNHM:Bird:54894,2016,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.39303,35.0149
+91,MVZCCGP-CaOr9_II-F06,MVZCCGP-CaOr9_II-F06,MVZ:Bird:190749,2010,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-122.1210651,37.8987009
+92,MVZCCGP-CaOr96_I-A10,MVZCCGP-CaOr96_I-A10,MVZ:Bird:180654,2003,CC_NWCal,Callipepla_californica,Sonoma County,Northern California Coast,-122.71858,38.36322
+93,MVZCCGP-CaOr97_I-B10,MVZCCGP-CaOr97_I-B10,MVZ:Bird:190103,2007,CC_NWCal,Callipepla_californica,Tehama County,Sierra Nevada Foothills,-122.177035,40.29568
+94,MVZCCGP-CaOr159_II-H04,MVZCCGP-CaOr159_II-H04,MWFB:Bird:13669,2013,CC_NWCal,Callipepla_californica,Yolo County,Great Valley,-122.01601,38.523661
+95,MVZCCGP-CaOr2_I-B01,MVZCCGP-CaOr2_I-B01,LACM:Bird:115509,2008,CC_SN,Callipepla_californica,Alpine County,Sierra Nevada,-119.81,38.733
+96,MVZCCGP-CaOr63_I-A07,MVZCCGP-CaOr63_I-A07,SDMNH:Bird:53712,2012,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.679,33.8291
+97,MVZCCGP-CaOr69_I-F07,MVZCCGP-CaOr69_I-F07,SDMNH:Bird:51818,2007,CC_SoCal,Callipepla_californica,San Diego County,Southern California Mountains and Valleys,-116.53,32.822
+98,MVZCCGP-CaOr7_I-E01,MVZCCGP-CaOr7_I-E01,MVZ:Bird:183919,2009,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-122.049762,37.816142
+99,MVZCCGP-CaOr81_II-B02,MVZCCGP-CaOr81_II-B02,SDMNH:Bird:56237,2019,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.103,33.074
+100,MVZCCGP-CaOr88_I-C09,MVZCCGP-CaOr88_I-C09,MVZ:Bird:182929,2007,CC_NWCal,Callipepla_californica,Shasta County,Southern Cascades,-121.81513,40.51234
+101,MVZCCGP-CaOr109_I-B11,MVZCCGP-CaOr109_I-B11,LACM:Bird:115164,2008,Gambels,Callipepla_gambelii,Riverside County,Colorado Desert,-116.36,33.72
+102,MVZCCGP-CaOr116_I-E11,MVZCCGP-CaOr116_I-E11,LSUMZ B23160,1994,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-116.054,34.138
+103,MVZCCGP-CaOr13_I-B02,MVZCCGP-CaOr13_I-B02,MVZ:Bird:190758,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-122.1164285,37.9814868
+104,MVZCCGP-CaOr28_II-D07,MVZCCGP-CaOr28_II-D07,LACM:Bird:105976,1990,CC_NWCal,Callipepla_californica,Lake County,Northern California Coast Ranges,-122.6160965,38.7523041
+105,MVZCCGP-CaOr43_I-A05,MVZCCGP-CaOr43_I-A05,MVZ uncataloged,2020,CC_NWCal,Callipepla_californica,Mendocino County,Northern California Coast,-123.33254,39.68102
+106,MVZCCGP-CaOr91_I-F09,MVZCCGP-CaOr91_I-F09,MVZ:Bird:190550,2007,CC_NWCal,Callipepla_californica,Shasta County,Southern Cascades,-121.86577,40.456565
+107,MVZCCGP-CaOr25_I-D03,MVZCCGP-CaOr25_I-D03,MVZ uncataloged,2008,CC_SN,Callipepla_californica,Kern County,Sierra Nevada Foothills,-118.44392,35.58906
+108,MVZCCGP-CaOr38_I-E04,MVZCCGP-CaOr38_I-E04,MVZ:Bird:184823,2009,CC_NWCal,Callipepla_californica,Marin County,Northern California Coast,-122.856389,38.044643
+109,MVZCCGP-CaOr48_I-F05,MVZCCGP-CaOr48_I-F05,MVZ:Bird:183076,2006,CC_SN,Callipepla_californica,Monterey County,Central California Coast,-121.54965,36.38688
+110,MVZCCGP-CaOr32_I-H03,MVZCCGP-CaOr32_I-H03,LACM:Bird:115754,2011,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.367275,34.287322
+111,MVZCCGP-CaOr87_I-B09,MVZCCGP-CaOr87_I-B09,MVZ:Bird:190540,2010,CC_NWCal,Callipepla_californica,Santa Clara County,Central Valley Coast Ranges,-121.737,37.3816
+112,MVZCCGP-CaOr89_I-D09,MVZCCGP-CaOr89_I-D09,MVZ:Bird:184694,2009,CC_NWCal,Callipepla_californica,Shasta County,Northern California Interior Coast Ranges,-122.21755,40.4178
+113,MVZCCGP-CaOr100_I-E10,MVZCCGP-CaOr100_I-E10,MVZ:Bird:190551,2007,CC_NWCal,Callipepla_californica,Tehama County,Southern Cascades,-121.86118,40.44072
+114,MVZCCGP-CaOr104_I-H10,MVZCCGP-CaOr104_I-H10,LACM:Bird:115753,2011,CC_SN,Callipepla_californica,Ventura County,Southern California Coast,-118.839282,34.193351
+115,MVZCCGP-CaOr23_I-B03,MVZCCGP-CaOr23_I-B03,MVZ uncataloged,2008,CC_SN,Callipepla_californica,Kern County,Sierra Nevada Foothills,-118.44392,35.58906
+116,MVZCCGP-CaOr3_II-A07,MVZCCGP-CaOr3_II-A07,CAS:ORN:83913,1987,CC_SN,Callipepla_californica,Amador  County,Sierra Nevada,-120.5726,38.5184
+117,MVZCCGP-CaOr44_I-B05,MVZCCGP-CaOr44_I-B05,MVZ uncataloged,2020,CC_NWCal,Callipepla_californica,Mendocino County,Northern California Coast,-123.33254,39.68102
+118,MVZCCGP-CaOr31_I-G03,MVZCCGP-CaOr31_I-G03,LACM:Bird:114960,2009,CC_SN,Callipepla_californica,Los Angeles County,Southern California Coast,-118.081173,34.165722
+119,MVZCCGP-CaOr59_I-G06,MVZCCGP-CaOr59_I-G06,SDMNH:Bird:52972,2011,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.89892,33.75185
+120,MVZCCGP-CaOr68_I-E07,MVZCCGP-CaOr68_I-E07,SDMNH:Bird:51197,2005,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.257809,32.9940104
+121,MVZCCGP-CaOr70_I-G07,MVZCCGP-CaOr70_I-G07,SDMNH:Bird:52685,2010,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.1256,33.0271
+122,MVZCCGP-CaOr72_I-H07,MVZCCGP-CaOr72_I-H07,SDMNH:Bird:53322,2011,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.0786,32.8293
+123,MVZCCGP-CaOr73_I-A08,MVZCCGP-CaOr73_I-A08,SDMNH:Bird:53471,2010,CC_SoCal,Callipepla_californica,San Diego County,Colorado Desert,-116.3789,33.2319
+124,MVZCCGP-CaOr85_I-H08,MVZCCGP-CaOr85_I-H08,MVZ:Bird:183569,2006,CC_NWCal,Callipepla_californica,Santa Clara County,Central Valley Coast Ranges,-121.737,37.3816
+125,MVZCCGP-CaOr98_I-C10,MVZCCGP-CaOr98_I-C10,MVZ:Bird:190104,2007,CC_NWCal,Callipepla_californica,Tehama County,Sierra Nevada Foothills,-122.17383,40.29744
+126,MVZCCGP-CaOr110_II-C02,MVZCCGP-CaOr110_II-C02,SDNHM:Bird:53668,2012,Gambels,Callipepla_gambelii,Riverside County,Southern California Mountains and Valleys,-116.425,33.641
+127,MVZCCGP-CaOr26_II-B07,MVZCCGP-CaOr26_II-B07,LACM:Bird:104986,1990,CC_NWCal,Callipepla_californica,Lake County,Northern California Coast Ranges,-122.6160965,38.7523041
+128,MVZCCGP-CaOr86_I-A09,MVZCCGP-CaOr86_I-A09,MVZ:Bird:183570,2006,CC_NWCal,Callipepla_californica,Santa Clara County,Central Valley Coast Ranges,-121.737,37.3816
+129,MVZCCGP-CaOr113_I-C11,MVZCCGP-CaOr113_I-C11,LSUMZ:Bird:158920,1993,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.738,34.976
+130,MVZCCGP-CaOr11_I-A02,MVZCCGP-CaOr11_I-A02,MVZ:Bird:190751,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Central Valley Coast Ranges,-121.9425337,37.766279
+131,MVZCCGP-CaOr20_I-G02,MVZCCGP-CaOr20_I-G02,LACM:Bird:114671,2006,CC_SN,Callipepla_californica,Inyo County,Mono,-118.3957214,37.3652992
+132,MVZCCGP-CaOr29_I-E03,MVZCCGP-CaOr29_I-E03,MVZ:Bird:182172,2006,CC_SN,Callipepla_californica,Lassen County,Southern Cascades,-120.84406,40.57595
+133,MVZCCGP-CaOr22_I-A03,MVZCCGP-CaOr22_I-A03,MVZ uncataloged,2008,CC_SN,Callipepla_californica,Kern County,Sierra Nevada,-118.07576,35.72365
+134,MVZCCGP-CaOr45_I-C05,MVZCCGP-CaOr45_I-C05,MVZ:Bird:181732,2004,CC_NWCal,Callipepla_californica,Mendocino County,Northern California Coast,-123.62557,39.65349
+135,MVZCCGP-CaOr46_I-D05,MVZCCGP-CaOr46_I-D05,2021_sample,2021,CC_SN,Callipepla_californica,Siskiyou County,Modoc Plateau,-121.496529,41.257263
+136,MVZCCGP-CaOr78_II-H01,MVZCCGP-CaOr78_II-H01,SDMNH:Bird:55027,2017,CC_SoCal,Callipepla_californica,San Diego County,Southern California Coast,-117.0733,32.9328
+137,MVZCCGP-CaOr152_II-B04,MVZCCGP-CaOr152_II-B04,MWFB:Bird:13008,2018,CC_NWCal,Callipepla_californica,Butte County,Great Valley,-121.73079,39.613304
+138,MVZCCGP-CaOr18_I-E02,MVZCCGP-CaOr18_I-E02,LACM:Bird:114408,2006,CC_SN,Callipepla_californica,Inyo County,Mono,-118.3957214,37.3652992
+139,MVZCCGP-CaOr5_I-D01,MVZCCGP-CaOr5_I-D01,MVZ:Bird:182792,2003,CC_NWCal,Callipepla_californica,Contra Costa County,Central Valley Coast Ranges,-121.929581,37.821234
+140,MVZCCGP-CaOr57_II-B01,MVZCCGP-CaOr57_II-B01,SDMNH:Bird:52537,2010,CC_SoCal,Callipepla_californica,Riverside County,Southern California Mountains and Valleys,-116.8444,33.9082
+141,MVZCCGP-CaOr99_I-D10,MVZCCGP-CaOr99_I-D10,MVZ:Bird:190105,2007,CC_NWCal,Callipepla_californica,Tehama County,Sierra Nevada Foothills,-122.17383,40.29744
+142,MVZCCGP-CaOr156_II-A06,MVZCCGP-CaOr156_II-A06,MWFB:Bird:15491,2019,CC_SN,Callipepla_californica,Madera County,Sierra Nevada Foothills,-119.7156,37.342407
+143,MVZCCGP-CaOr161_II-B06,MVZCCGP-CaOr161_II-B06,MWFB:Bird:12867,2015,CC_NWCal,Callipepla_californica,Yolo County,Great Valley,-121.99072,38.624535
+144,MVZCCGP-CaOr62_II-D01,MVZCCGP-CaOr62_II-D01,SDMNH:Bird:53659,2012,hybrid,hybrid,Riverside County,Southern California Mountains and Valleys,-116.53667,33.73386
+145,MVZCCGP-CaOr65_II-E01,MVZCCGP-CaOr65_II-E01,SDMNH:Bird:50640,2002,CC_SoCal,Callipepla_californica,San Diego County,Southern California Mountains and Valleys,-116.5363,33.075
+146,MVZCCGP-CaOr8_II-E06,MVZCCGP-CaOr8_II-E06,MVZ:Bird:190747,2011,CC_NWCal,Callipepla_californica,Contra Costa County,Central California Coast,-121.9668183,37.8488095
+147,MVZCCGP-CaOr118_I-G11,MVZCCGP-CaOr118_I-G11,SBCM:Bird:60117,2008,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.113,34.52
+148,MVZCCGP-CaOr120_I-A12,MVZCCGP-CaOr120_I-A12,SDNHM:Bird:54874,2016,Gambels,Callipepla_gambelii,San Bernardino County,Mojave Desert,-115.54645,35.31684

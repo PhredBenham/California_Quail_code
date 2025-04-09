@@ -1,0 +1,9 @@
+datapath = /media/data2/CCGP_quail_analysis/pop_structure/CalQuail_eems_input/CalQuail_forEEMS_29Sept2023
+mcmcpath = /media/data2/CCGP_quail_analysis/pop_structure/CalQuail_eems_output/CalQuail_chain1
+nIndiv = 105
+nSites = 870464
+nDemes = 500
+diploid = true
+numMCMCIter = 50000000
+numBurnIter = 15000000
+numThinIter = 9999

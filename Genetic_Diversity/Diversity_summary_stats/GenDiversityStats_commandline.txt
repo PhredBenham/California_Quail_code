@@ -1,0 +1,8 @@
+#mountain quail
+python3 CCGP_geneticdiversity_stats_pop.py -i MtnQuail_Autosome_10Sept.recode.vcf -o Oreortyx_pop_div_jan2025 -p Cluster -w 1000000 -g 1000000000 -f quail_masked.fa.out -s MOQU_26Sept2023_samples.csv
+
+#callipepla species
+python3 CCGP_geneticdiversity_stats.py -i ../Quail_AutosomeFinal_11Sept2024.recode.vcf -f quail_masked.fa.out -s CCGP_callipepla_samples.csv -p Species -w 1000000 -g 1000000000 -o Callipepla_SpeciesGenDiv_jan2025
+
+#callipepla population
+python3 CCGP_geneticdiversity_stats.py -i ../Quail_AutosomeFinal_11Sept2024.recode.vcf -f quail_masked.fa.out -s CCGP_callipepla_samples.csv -p Cluster -w 1000000 -g 1000000000 -o Callipepla_GenDiv_jan2025
